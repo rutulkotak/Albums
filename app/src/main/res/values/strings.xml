@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Albums</string>
+    <!-- Content Descriptions -->
+    <string name="albums_header_image_content_description">Albums header image</string>
+    <string name="no_albums_image_content_description">No Albums image</string>
+    <string name="no_albums_text_content">Pull to refresh</string>
+</resources>
